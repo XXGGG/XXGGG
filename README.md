@@ -7,5 +7,5 @@
 
 ---
 Mark-Veronica：[https://xxggg.github.io/veronica](https://xxggg.github.io/Veronica/#/)  
-Mark-demo：[https://xxggg.github.io/vue2-demo](https://xxggg.github.io/vue2-demo/#/)  
+Mark-demo：[https://xxggg.github.io/demo](https://xxggg.github.io/demo/#/)  
 Mark-Dict：[https://xxggg.github.io/xgdict](https://xxggg.github.io/XGDict/#/)  
