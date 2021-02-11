@@ -6,6 +6,6 @@
  微博：[谢夏戈戈戈](https://weibo.com/u/2472496944)  
 
 ---
-Mark-Veronica：[https://xxggg.github.io/veronica](https://xxggg.github.io/veronica/#/)  
+Mark-Veronica：[https://xxggg.github.io/veronica](https://xxggg.github.io/Veronica/#/)  
 Mark-demo：[https://xxggg.github.io/vue2-demo](https://xxggg.github.io/vue2-demo/#/)  
-Mark-Dict：[https://xxggg.github.io/xgdict](https://xxggg.github.io/xgdict/#/)  
+Mark-Dict：[https://xxggg.github.io/xgdict](https://xxggg.github.io/XGDict/#/)  
