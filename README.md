@@ -9,4 +9,7 @@
  微博weibo：[谢夏戈戈戈](https://weibo.com/u/2472496944)  
 
 ---
-WEB Demo：[https://xxggg.github.io/demo](https://xxggg.github.io/demo/#/)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XXGGG&repo=DEMO)](https://xxggg.github.io/demo/#/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXGGG&show_icons=true&theme=radical)
