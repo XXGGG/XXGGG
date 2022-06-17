@@ -3,8 +3,9 @@
 # 🟥🟧🟨🟩🟦🟪🟫⬛⬜◼️◻️◾◽▪️▫️
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://xxggg.github.io/"><img height="30px" src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://xxggg.github.io/"><img height="30px" src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-blue"></a>&emsp;
   <a href="https://blog.csdn.net/qq_42460209"><img height="30px" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://weibo.com/u/2472496944"><img height="30px" src="https://img.shields.io/badge/Weibo-%E5%BE%AE%E5%8D%9A-orange"></a>&emsp;
   <a href="https://space.bilibili.com/5276030"><img height="30px" src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img height="30px"  src="https://visitor-badge.glitch.me/badge?page_id=xxggg" alt="访客统计" />
@@ -15,9 +16,9 @@
 <br />
 
 <!-- 统计卡片 -->
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=XXGGG&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXGGG&hide_title=true&hide=html,sass&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> 
+<div align="center" style="width:100%">
+<img height="137px" width="40%" src="https://github-readme-stats.vercel.app/api?username=XXGGG&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" /> 
+<img height="137px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXGGG&hide_title=true&hide=html,sass&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> 
 </div>
 
 <div align="center">
