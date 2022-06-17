@@ -17,7 +17,7 @@
 
 <!-- 统计卡片 -->
 <div align="center" style="width:100%">
-<img height="137px" width="40%" src="https://github-readme-stats.vercel.app/api?username=XXGGG&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" /><img height="137px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXGGG&hide_title=true&hide=html,sass&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=XXGGG&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXGGG&hide_title=true&hide=html,sass&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> 
 </div>
 
 <div align="center">
