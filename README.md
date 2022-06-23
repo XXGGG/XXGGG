@@ -1,6 +1,6 @@
 # 👋欢迎来到〖谢夏戈的Github〗
 
-你好，欢迎来到我的Github！我叫谢夏戈，96年。   
+你好，欢迎来到我的Github！我是谢夏戈！
 
 ## 我的学习⌨️
 1. 🟧HTML、🟥CSS、🟨JavaScript、🟦TypeScript
