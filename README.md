@@ -6,7 +6,7 @@
 1. 🟧HTML、🟥CSS、🟨JavaScript、🟦TypeScript
 2. 🟩Vue（Vue-router、Vuex、Pinia、Vite、Axios）
 3. 🐍Python、🕸️爬虫
-4. 🍀Node.js、☘️Express
+4. ⬛Node.js、☘⬜Express
 5. 🐬MySQL、🍃Sqlite
 6. 🥝微信小程序、🥝uni-app
 7. 🕹️Cocos（未来想学）
