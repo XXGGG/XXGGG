@@ -1,18 +1,18 @@
-# 👋欢迎来到〖谢夏戈的Github〗
+ # 👋欢迎来到〖谢夏戈的Github〗/ Welcome to My Github
 
-你好，欢迎来到我的Github！我是谢夏戈！
+你好! 我是谢夏戈！/ Hi! I am XXG
 
-## 我的学习⌨️
+## ⌨️我的学习/ My Learning 
 1. 🟧HTML、🟥CSS、🟨JavaScript、🟦TypeScript
 2. 🟩Vue（Vue-router、Vuex、Pinia、Vite、Axios）
-3. 🐍Python、🕸️爬虫
+3. 🐍Python、🕸️爬虫（web crawler）
 4. ⬛Node.js、☘⬜Express
 5. 🐬MySQL、🍃Sqlite
-6. 🥝微信小程序、🥝uni-app
-7. 🕹️Cocos（未来想学）
+6. 🥝微信小程序（WeChat Mini Program）、🥝uni-app
+7. 🕹️Cocos
 
-## 最近在🔎研究/📖学习
-1. 最近在整理笔记/博客，整理知识点。
+## 📖最近学习 / Lately Learning
+1. 整理笔记，更换博客。（sort out notes，Change the blog）
 2. Test：Vue + ECharts
 
 
