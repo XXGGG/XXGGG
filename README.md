@@ -1,6 +1,14 @@
  # 👋欢迎来到〖谢夏戈的Github〗/ Welcome to My Github
 
-你好! 我是谢夏戈！/ Hi! I am XXG
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://xxggg.github.io/"><img height="30px" src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-blue"></a>&emsp;
+  <a href="https://blog.csdn.net/qq_42460209"><img height="30px" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://weibo.com/u/2472496944"><img height="30px" src="https://img.shields.io/badge/Weibo-%E5%BE%AE%E5%8D%9A-orange"></a>&emsp;
+  <a href="https://space.bilibili.com/5276030"><img height="30px" src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+<!-- 访客数统计徽标 -->
+  <img height="30px"  src="https://visitor-badge.glitch.me/badge?page_id=xxggg" alt="访客统计" />
+</div>
 
 ## ⌨️我的学习/ My Learning 
 1. 🟧HTML、🟥CSS、🟨JavaScript、🟦TypeScript
@@ -13,27 +21,11 @@
 
 ## 📖最近学习 / Lately Learning
 1. 整理笔记，更换博客。（sort out notes，Change the blog）
-2. Test：Vue + ECharts
-
-
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://xxggg.github.io/"><img height="30px" src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-blue"></a>&emsp;
-  <a href="https://blog.csdn.net/qq_42460209"><img height="30px" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://weibo.com/u/2472496944"><img height="30px" src="https://img.shields.io/badge/Weibo-%E5%BE%AE%E5%8D%9A-orange"></a>&emsp;
-  <a href="https://space.bilibili.com/5276030"><img height="30px" src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img height="30px"  src="https://visitor-badge.glitch.me/badge?page_id=xxggg" alt="访客统计" />
-</div>
-
-
+2. 学习微信小程序。(Learing WeChat Mini Program)
+3. 学习uni-app。
+4. Test：Vue + ECharts
 
 <br />
-
-<!-- 统计卡片 -->
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=XXGGG&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXGGG&hide_title=true&hide=html&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> 
-</div>
 
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="100" title="html">
@@ -44,5 +36,10 @@
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="100" title="python">
    <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+</div>
+
+<!-- 统计卡片 -->
+<div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=XXGGG&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXGGG&hide_title=true&hide=html&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> 
 </div>
 
