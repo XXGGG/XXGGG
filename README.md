@@ -3,7 +3,10 @@
 <!-- 个人资料徽标 -->
 <div align="center">
    <a href="https://xxggg.github.io/"><img height="100px" src="https://raw.githubusercontent.com/XXGGG/xxggg.github.io/main/img/logo.svg"></a>&emsp;
+   <a href="https://xxggg.github.io/XGNavigation/"><img height="100px" src="https://raw.githubusercontent.com/XXGGG/XGNavigation/3aefb55c3d3e3895ed1f060a030d5779a295cab6/public/vite.svg"></a>&emsp;
 </div>
+
+
 <br />
 <div align="center">
    <a href="https://blog.csdn.net/qq_42460209"><img height="30px" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
