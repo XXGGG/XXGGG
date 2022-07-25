@@ -1,16 +1,18 @@
- # 👋欢迎来到〖谢夏戈的Github〗/ Welcome to My Github
+
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://xxggg.github.io/"><img height="30px" src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-blue"></a>&emsp;
-  <a href="https://blog.csdn.net/qq_42460209"><img height="30px" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+   <a href="https://xxggg.github.io/"><img height="100px" src="https://raw.githubusercontent.com/XXGGG/xxggg.github.io/main/img/logo.svg"></a>&emsp;
+</div>
+<br />
+<div align="center">
+   <a href="https://blog.csdn.net/qq_42460209"><img height="30px" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://weibo.com/u/2472496944"><img height="30px" src="https://img.shields.io/badge/Weibo-%E5%BE%AE%E5%8D%9A-orange"></a>&emsp;
   <a href="https://space.bilibili.com/5276030"><img height="30px" src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img height="30px"  src="https://visitor-badge.glitch.me/badge?page_id=xxggg" alt="访客统计" />
 </div>
+ 
 
-## ⌨️我的学习/ My Learning 
+## ⌨️ 我的方向
 1. 🟧HTML、🟥CSS、🟨JavaScript、🟦TypeScript
 2. 🟩Vue（Vue-router、Vuex、Pinia、Vite、Axios）
 3. 🐍Python、🕸️爬虫（web crawler）
@@ -19,24 +21,16 @@
 6. 🥝微信小程序（WeChat Mini Program）、🥝uni-app
 7. 🕹️Cocos
 
-## 📖最近学习 / Lately Learning
-1. 整理笔记，更换博客。（sort out notes，Change the blog）
-2. 学习微信小程序。(Learing WeChat Mini Program)
-3. 学习uni-app。
-4. Test：Vue + ECharts
+## 📖 最近
+1. 整理笔记 整理博客
+2. 尝试【UnoCSS】,尝试【Vue + ECharts】，尝试【Slidev】
+3. 学习微信小程序
+4. 学习uni-app
+5. 最近在做一个【浏览器扩展】-【浏览器首页】
 
-<br />
+- 最近在了解【indexedDB】
+- 最近在了解【PWA】\【Service Worker】
 
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="100" title="css">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="100" title="javascript">
-  <img alt="vue" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" height="100" title="vue">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="100" title="node">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="100" title="python">
-   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-</div>
 
 <!-- 统计卡片 -->
 <div align="center">
