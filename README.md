@@ -4,6 +4,7 @@
 <div align="center">
    <a href="https://xxggg.github.io/"><img height="100px" src="https://raw.githubusercontent.com/XXGGG/xxggg.github.io/main/img/logo.svg"></a>&emsp;
    <a href="https://xxggg.github.io/XGNavigation/"><img height="100px" src="https://raw.githubusercontent.com/XXGGG/XGNavigation/3aefb55c3d3e3895ed1f060a030d5779a295cab6/public/vite.svg"></a>&emsp;
+   <a href="https://xggame-minesweeper.netlify.app/"><img height="100px" src="https://raw.githubusercontent.com/XXGGG/XGGame-Minesweeper/2b17dd1cd487bda50b9318fc0bd726f107f10712/public/Minesweeper.svg"></a>&emsp;
 </div>
 
 
@@ -25,18 +26,5 @@
 7. 🕹️Cocos
 
 ## 📖 最近
-1. 整理笔记 整理博客
-2. 尝试【UnoCSS】,尝试【Vue + ECharts】，尝试【Slidev】
-3. 学习微信小程序
-4. 学习uni-app
-5. 最近在做一个【浏览器扩展】-【浏览器首页】
-
-- 最近在了解【indexedDB】
-- 最近在了解【PWA】\【Service Worker】
-
-
-<!-- 统计卡片 -->
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=XXGGG&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXGGG&hide_title=true&hide=html&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" /> 
-</div>
+1. 最近在弄一个商城DEMO-动画效果
 
