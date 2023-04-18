@@ -18,10 +18,9 @@
   <a href="https://space.bilibili.com/5276030"><img height="30px" src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 </div>
  
+---
 
-## ⌨️ 
 1. 🟧HTML、🟥CSS、🟨JavaScript、🟦TypeScript、🟩Vue、⬜Node.js、⬛Express
 2. 🐍Python、🕸️爬虫（web crawler）
 3. 🐬MySQL、🍃Sqlite
-4. 🕹️Cocos
 
