@@ -14,10 +14,10 @@
 
 |进度|项目|简介|🛠️技术栈|🔗传送门|
 |:-:|:-:|:-:|:-:|:-:|
-|🟢已完成 | **⭐[精选网站 - XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** | 收集互联网上的那些“宝藏”网站 | `Next` `React`  | [🔗传送门](https://xgwsa.xiexiage.com/) |
-|🟢已完成 | **🔌[新建标签页 - XGNewTab](https://github.com/XXGGG/XGNewTab)** | 浏览器扩展：自定义新建标签页 | `Vue` | [🔗Chrome](https://chromewebstore.google.com/detail/xgnewtab/kefmpjgpgaenhafgpekmeokbbepladfd?hl=zh-cn)  [🔗Edge](https://microsoftedge.microsoft.com/addons/detail/xgnewtab/hgopfokppklholomjognciddfdihligk?hl=zh-CN) |
-|🟡迭代中 | **🖥️[浏览器首页 - XGWeb](https://github.com/XXGGG/XGWeb)** | 轻量级 Web 导航入口 | `Vue` | [🔗传送门](https://xgweb.xiexiage.com/) |
-|🚧施工中 | **🧰[桌面工具 - XGTools](https://github.com/XXGGG/XGTools)** | 集桌宠、截图、翻译于一体的效率工具 | `Tauri` `Vue` | |
+|🟢已完成 | **⭐[XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** | 收集“宝藏”网站 | `Next` | [🔗传送门](https://xgwsa.xiexiage.com/) |
+|🟢已完成 | **🔌[XGNewTab](https://github.com/XXGGG/XGNewTab)** | 自定义新建标签页 | `Vue` | [🔗Chrome](https://chromewebstore.google.com/detail/xgnewtab/kefmpjgpgaenhafgpekmeokbbepladfd?hl=zh-cn)  [🔗Edge](https://microsoftedge.microsoft.com/addons/detail/xgnewtab/hgopfokppklholomjognciddfdihligk?hl=zh-CN) |
+|🟡迭代中 | **🖥️[XGWeb](https://github.com/XXGGG/XGWeb)** |  Web 导航 | `Vue` | [🔗传送门](https://xgweb.xiexiage.com/) |
+|🚧施工中 | **🧰[XGTools](https://github.com/XXGGG/XGTools)** | 集桌宠、截图、翻译具 | `Tauri` `Vue` | |
 |📝计划中 | **📄字帖生成** | 打造属于自己的硬笔书法练习模板 | | |
 |📝计划中 | **💳电子名片** | 极简主义的个人身份数字化展示 | | |
 |📝计划中 | **😈游戏封面** | 收集所有游戏的封面 | | |
