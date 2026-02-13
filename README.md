@@ -1,43 +1,31 @@
 <div align="center">
   <h1>Hi, I'm XXG (谢夏戈) 👋</h1>
   <p>
-    <b>🎮 独立游戏开发练习生 | 📹 视频制作萌新 | 💻 前端折腾党</b>
+    <b>🎮 Gamer · 📹 Vlogger · 💻 Frontend Developer</b>
   </p>
   <p>
-    <i>"正在努力点亮以上技能树..."</i>
+    My Blog 👉 <a href='https://xiexiage.com'>XGBlog</a>
   </p>
   <br />
 </div>
 
-#### 🔄 正在复习 (Reviewing)
-<img src="https://skillicons.dev/icons?i=vue,nuxt,unocss" height="40" />
+## 🌐 Web & Browser Extensions
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,tailwind,supabase,vercel,unocss" height="30" />
 
-#### ⚛️ 正在学习 (Learning)
+|进度|项目|简介|🛠️技术栈|🔗传送门|
+|:-:|:-:|:-:|:-:|:-:|
+|🟢已完成 | **⭐[精选网站 - XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** | 收集互联网上的那些“宝藏”网站 | `Next` `React`  | [🔗传送门](https://xgwsa.xiexiage.com/) |
+|🟢已完成 | **🔌[新建标签页 - XGNewTab](https://github.com/XXGGG/XGNewTab)** | 浏览器扩展：自定义新建标签页 | `Vue` | [🔗Chrome](https://chromewebstore.google.com/detail/xgnewtab/kefmpjgpgaenhafgpekmeokbbepladfd?hl=zh-cn)  [🔗Edge](https://microsoftedge.microsoft.com/addons/detail/xgnewtab/hgopfokppklholomjognciddfdihligk?hl=zh-CN) |
+|🟡迭代中 | **🖥️[浏览器首页 - XGWeb](https://github.com/XXGGG/XGWeb)** | 轻量级 Web 导航入口 | `Vue` | [🔗传送门](https://xgweb.xiexiage.com/) |
+|🚧施工中 | **🧰[桌面工具 - XGTools](https://github.com/XXGGG/XGTools)** | 集桌宠、截图、翻译于一体的效率工具 | `Tauri` `Vue` | |
+|📝计划中 | **📄字帖生成** | 打造属于自己的硬笔书法练习模板 | | |
+|📝计划中 | **💳电子名片** | 极简主义的个人身份数字化展示 | | |
+|📝计划中 | **😈游戏封面** | 收集所有游戏的封面 | | |
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase,vercel" height="40" />
 
-#### 🤖 刚开始啃 (Newbie)
+## 🎮 Game Development
+<img src="https://skillicons.dev/icons?i=godot,blender" height="30" />
 
-<img src="https://skillicons.dev/icons?i=godot,blender" height="40" />
-
----
-
-### 💻 练手项目 (Practice Projects)
-
-1.  **[XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** 
-    *  🛠️ `Next.js` + `React`
-    *  📝 用来熟悉 React 全家桶。
-    *  🎉欢迎参观：[🔗XGWebSite-Awesome](https://xgwsa.xiexiage.com/)
-
-2.  **[XGTools](https://github.com/XXGGG/XGTools)** （🚧施工中...）。
-    *   🛠️ `Tauri` + `Vue`
-    *   🧰 一个桌面端工具集，包含平时用顺手的小工具
-
----
-
-### 📅 填坑计划 (Todo List)
-
-- [ ] **Godot 小游戏：跳一跳** (先跑通流程)
-- [ ] **字帖生成器** (继续练习 React、Next)
-- [ ] **个人电子名片** (继续练习 React、Next)
-- [ ] **游戏封面** (大Project，复习 Nuxt, 然后再配合上 Supabase + Cloudflare + Vercel)
+|进度|项目|简介|🛠️技术栈|🔗传送门|
+|:-:|:-:|:-:|:-:|:-:|
+|🟢已完成 | **🐦XGGame-Bird** | 模仿Flppy Bird的小游戏 | `Godot` `Aseprite` |  [🔗itch.io 游玩](https://xxggg.itch.io/xggame-bird) |
