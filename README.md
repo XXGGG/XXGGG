@@ -14,13 +14,12 @@
 
 |进度|项目|简介|🛠️技术栈|🔗传送门|
 |:-:|:-:|:-:|:-:|:-:|
-|🟢已完成 | **⭐[XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** | 收集“宝藏”网站 | `Next` | [🔗传送门](https://xgwsa.xiexiage.com/) |
+|🟢已完成 | **⭐[XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** | 收集“宝藏”网站 | `Next` | [🔗在线网页](https://xgwsa.xiexiage.com/) |
 |🟢已完成 | **🔌[XGNewTab](https://github.com/XXGGG/XGNewTab)** | 自定义新建标签页 | `Vue` | [🔗Chrome](https://chromewebstore.google.com/detail/xgnewtab/kefmpjgpgaenhafgpekmeokbbepladfd?hl=zh-cn)  [🔗Edge](https://microsoftedge.microsoft.com/addons/detail/xgnewtab/hgopfokppklholomjognciddfdihligk?hl=zh-CN) |
-|🟡迭代中 | **🖥️[XGWeb](https://github.com/XXGGG/XGWeb)** |  Web 导航 | `Vue` | [🔗传送门](https://xgweb.xiexiage.com/) |
-|🚧施工中 | **🧰[XGTools](https://github.com/XXGGG/XGTools)** | 集桌宠、截图、翻译具 | `Tauri` `Vue` | |
-|📝计划中 | **📄字帖生成** | 打造属于自己的硬笔书法练习模板 | | |
-|📝计划中 | **💳电子名片** | 极简主义的个人身份数字化展示 | | |
-|📝计划中 | **😈游戏封面** | 收集所有游戏的封面 | | |
+|🟢已完成 | **🖌️[XGRime](https://github.com/XXGGG/XGRime)** | Rime输入法配置可视化 | `Tauri` `Vue` | [🔗Github仓库](https://github.com/XXGGG/XGRime) |
+|🟡迭代中 | **🖥️[XGWeb](https://github.com/XXGGG/XGWeb)** | Web 导航 | `Vue` | [🔗在线网页](https://xgweb.xiexiage.com/) |
+|🟡迭代中 | **🧰[XGTools](https://github.com/XXGGG/XGTools)** | 集桌宠、截图、翻译具 | `Tauri` `Vue` | [🔗Github仓库](https://github.com/XXGGG/XGTools) |
+
 
 
 ## 🎮 Game Development
