@@ -1,30 +1,35 @@
 <div align="center">
-  <h1>Hi, I'm XXG (谢夏戈) 👋</h1>
-  <p>
-    <b>🎮 Gamer · 📹 Vlogger · 💻 Frontend Developer</b>
-  </p>
-  <p>
-    My Blog 👉 <a href='https://xiexiage.com'>XGBlog</a>
-  </p>
-  <br />
+
+# 谢夏戈 · XXG
+
+🎮 Gamer &nbsp;·&nbsp; 💻 Coder &nbsp;·&nbsp; 🚧 学做游戏ing.....
+
+[📖 博客 Blog](https://xiexiage.com) &nbsp;·&nbsp; [🕹️ itch.io](https://xxggg.itch.io)
+
 </div>
 
-## 🌐 Web & Browser Extensions
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,tailwind,supabase,vercel,unocss" height="30" />
+## 🖥️ Desktop · 桌面应用
 
-|进度|项目|简介|🛠️技术栈|🔗传送门|
-|:-:|:-:|:-:|:-:|:-:|
-|🟢已完成 | **⭐[XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** | 收集“宝藏”网站 | `Next` | [🔗在线网页](https://xgwsa.xiexiage.com/) |
-|🟢已完成 | **🔌[XGNewTab](https://github.com/XXGGG/XGNewTab)** | 自定义新建标签页 | `Vue` | [🔗Chrome](https://chromewebstore.google.com/detail/xgnewtab/kefmpjgpgaenhafgpekmeokbbepladfd?hl=zh-cn)  [🔗Edge](https://microsoftedge.microsoft.com/addons/detail/xgnewtab/hgopfokppklholomjognciddfdihligk?hl=zh-CN) |
-|🟢已完成 | **🖌️[XGRime](https://github.com/XXGGG/XGRime)** | Rime输入法配置可视化 | `Tauri` `Vue` | [🔗Github仓库](https://github.com/XXGGG/XGRime) |
-|🟡迭代中 | **🖥️[XGWeb](https://github.com/XXGGG/XGWeb)** | Web 导航 | `Vue` | [🔗在线网页](https://xgweb.xiexiage.com/) |
-|🟡迭代中 | **🧰[XGTools](https://github.com/XXGGG/XGTools)** | 集桌宠、截图、翻译具 | `Tauri` `Vue` | [🔗Github仓库](https://github.com/XXGGG/XGTools) |
+| 项目 | 介绍 | 状态 | 拿去用 |
+| :-- | :-- | :-- | :-- |
+| **[XGTools](https://github.com/XXGGG/XGTools)** | 计时、翻译、截图 OCR、启动台、键盘桌宠 | 🚧 频繁更新 `Tauri` | [⬇️ 下载](https://github.com/XXGGG/XGTools/releases/latest) |
+| **[XGRime](https://github.com/XXGGG/XGRime)** | Rime 输入法的图形配置工具 | ✅ 稳定 `Rust` | [⬇️ 下载](https://github.com/XXGGG/XGRime/releases/latest) |
+| **[XGLive](https://github.com/XXGGG/XGLive)** | 把散落的图和视频变回实况照片 | ✅ 稳定 `Tauri` | [⬇️ 下载](https://github.com/XXGGG/XGLive/releases/latest) |
 
+## 🌐 Web · 网页与扩展
 
+| 项目 | 介绍 | 状态 | 拿去用 |
+| :-- | :-- | :-- | :-- |
+| **[XGNewTab](https://github.com/XXGGG/XGNewTab)** | 自定义新建标签页 | ✅ 已上架 | [🧩 Chrome](https://chromewebstore.google.com/detail/xgnewtab/kefmpjgpgaenhafgpekmeokbbepladfd) · [Edge](https://microsoftedge.microsoft.com/addons/detail/xgnewtab/hgopfokppklholomjognciddfdihligk) |
+| **XGWeb** | 浏览器导航首页 | ✅ 稳定 | [🌍 打开](https://xgweb.xiexiage.com/) |
+| **[XGWebSite-Awesome](https://github.com/XXGGG/XGWebSite-Awesome)** | 收集「宝藏」网站 | ✅ 稳定 | [🌍 打开](https://xgwsa.xiexiage.com/) |
 
-## 🎮 Game Development
-<img src="https://skillicons.dev/icons?i=godot,blender" height="30" />
+## 🎮 GameDev · 游戏开发
 
-|进度|项目|简介|🛠️技术栈|🔗传送门|
-|:-:|:-:|:-:|:-:|:-:|
-|🟢已完成 | **🐦XGGame-Bird** | 模仿Flppy Bird的小游戏 | `Godot` `Aseprite` |  [🔗itch.io 游玩](https://xxggg.itch.io/xggame-bird) |
+| 项目 | 介绍 | 状态 | 拿去用 |
+| :-- | :-- | :-- | :-- |
+| **XGGame-Bird** | 模仿 Flappy Bird 的小游戏 | ✅ 可玩 `Godot` | [🕹️ 去玩](https://xxggg.itch.io/xggame-bird) |
+
+<div align="center">
+<sub>Tauri · Vue · Rust · TypeScript · Godot</sub>
+</div>
